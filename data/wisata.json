@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Keraton Yogyakarta",
+        "description": "Istana resmi Kesultanan Yogyakarta yang menjadi pusat budaya dan tradisi Jawa.",
+        "lat": -7.805576,
+        "lng": 110.364792,
+        "image": "images/keraton.jpg",
+        "link": "details/keraton.html"
+    },
+    {
+        "name": "Candi Prambanan",
+        "description": "Kompleks candi Hindu terbesar di Indonesia, terkenal dengan legenda Roro Jonggrang.",
+        "lat": -7.751906,
+        "lng": 110.491227,
+        "image": "images/prambanan.jpg",
+        "link": "details/prambanan.html"
+    },
+    {
+        "name": "Taman Sari",
+        "description": "Istana air bersejarah yang dulunya digunakan untuk tempat peristirahatan keluarga kerajaan.",
+        "lat": -7.811038,
+        "lng": 110.359254,
+        "image": "images/tamansari.jpg",
+        "link": "details/tamansari.html"
+    },
+    {
+        "name": "Benteng Vredeburg",
+        "description": "Benteng peninggalan kolonial Belanda yang kini berfungsi sebagai museum sejarah.",
+        "lat": -7.800841,
+        "lng": 110.364594,
+        "image": "images/vredeburg.jpg",
+        "link": "details/vredeburg.html"
+    }
+]
